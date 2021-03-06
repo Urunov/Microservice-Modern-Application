@@ -11,7 +11,7 @@
      *  Scaling development is difficult
      *  Technology stack change is difficult
     
-[Reference architecture - Monolothic](https://user-images.githubusercontent.com/11626327/110196093-88743780-7e85-11eb-9a3f-4ce9aa7a226b.png))
+[Reference architecture - Monolothic](https://user-images.githubusercontent.com/11626327/110196093-88743780-7e85-11eb-9a3f-4ce9aa7a226b.png)
 
 
 ## What is Microservice Architecture?
