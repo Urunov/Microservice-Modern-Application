@@ -11,8 +11,8 @@
      *  Scaling development is difficult
      *  Technology stack change is difficult
     
-[Reference architecture - Monolothic]
-![arc](https://user-images.githubusercontent.com/11626327/110196093-88743780-7e85-11eb-9a3f-4ce9aa7a226b.png)
+[Reference architecture - Monolothic](https://user-images.githubusercontent.com/11626327/110196093-88743780-7e85-11eb-9a3f-4ce9aa7a226b.png))
+
 
 ## What is Microservice Architecture?
 
@@ -31,5 +31,4 @@
       * Followed the introduction of DevOps
       * Strategy - "Do one thing and do it well".
 
-[Reference architecture - Mircroservice]
-![arc1](https://user-images.githubusercontent.com/11626327/110196328-20265580-7e87-11eb-9381-0727ba11028b.png)
+[Reference architecture - Mircroservice](https://user-images.githubusercontent.com/11626327/110196328-20265580-7e87-11eb-9381-0727ba11028b.png)
