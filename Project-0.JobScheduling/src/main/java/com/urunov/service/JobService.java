@@ -23,7 +23,7 @@ public interface JobService {
     // Update one time recurring job.
     boolean updateCronJob (String jobName, Date date, String cronExpression);
 
-    //Unschedule scheduled job.
+    //Unscheduled scheduled job.
     boolean unScheduledJob (String jobName);
 
     // Delete a job
